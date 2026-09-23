@@ -1,0 +1,6 @@
+{
+  "name": "pH Matcher",
+  "description": "Precision pH test strip color analyzer using CIE L*a*b* color science, interactive pad selector, reference chart calibration, and lighting correction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

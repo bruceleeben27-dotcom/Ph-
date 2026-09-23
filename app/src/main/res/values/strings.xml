@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">pH Matcher</string>
+    <string name="nav_analyze">Analyze</string>
+    <string name="nav_charts">Charts</string>
+    <string name="nav_history">History</string>
+    <string name="nav_guide">Guide</string>
+    
+    <string name="action_camera">Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_sample">Try Sample</string>
+    <string name="action_save">Save Log</string>
+    <string name="action_recalibrate">Calibrate</string>
+    <string name="action_white_balance">White Balance</string>
+    
+    <string name="acidic">Acidic</string>
+    <string name="neutral">Neutral</string>
+    <string name="alkaline">Alkaline / Basic</string>
+    
+    <string name="confidence_high">High Confidence</string>
+    <string name="confidence_medium">Medium Confidence</string>
+    <string name="confidence_low">Low Confidence</string>
+    
+    <string name="chart_default">Prototype Wide Range (4–10)</string>
+    <string name="chart_universal">Universal Full Range (1–14)</string>
+    <string name="chart_water">Drinking Water &amp; Pool (6.2–8.4)</string>
+    <string name="chart_soil">Soil &amp; Garden pH (4.5–8.5)</string>
+    <string name="chart_saliva">Body Saliva &amp; Urine (5.5–8.0)</string>
+</resources>
